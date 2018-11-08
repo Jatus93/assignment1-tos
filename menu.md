@@ -1,4 +1,4 @@
 1068299
-[Pizza Margherita](margherita.md)
-[Pizza Capricciosa](capricciosa.md)
+[Pizza Margherita](Pizza/margherita.md)
+[Pizza Capricciosa](Pizza/capricciosa.md)
 pizzeria Bella Napoli
